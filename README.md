@@ -4,7 +4,7 @@
 
 ## I'm Zhou Feng
 
-A Programer of China. Aha! 😜
+A rookie of China. Aha! 😜
 
 💨 _I am what i am_
 
