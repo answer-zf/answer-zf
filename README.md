@@ -1,11 +1,13 @@
-<img src="http://images.dorc.top/blog/blog-logo.png" alt="Logo" align="right" height="240">
+<img src="http://images.dorc.top/blog/blog-logo.png" alt="Logo" align="right" height="200">
 
 #### 👋 Hey! Guys
 
 ## I'm Zhou Feng
 
-A Front End Engineer of China. Aha! 😜
+A Programer of China. Aha! 😜
 
-_Taste Life, Enjoy Life!_
+💨 _I am what i am_
 
-- Home Page: http://www.dorc.top/
+-   Key Skill😼:  Design, Front_End, Back_End
+
+-   Code: JavaScript, Python🙈
