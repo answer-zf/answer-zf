@@ -1,4 +1,4 @@
-<img src="http://images.dorc.top/blog/blog-logo.png" alt="Logo" align="right" height="200" style="margin-top:30px;">
+<img src="http://images.dorc.top/blog/blog-logo.png" alt="Logo" align="right" height="200">
 
 #### 👋 Hey! Guys
 
