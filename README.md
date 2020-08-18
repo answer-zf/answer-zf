@@ -6,7 +6,7 @@
 
 A rookie of China. Aha! 😜
 
-💨 _I am what i am_
+💨 _I AM WHAT I AM_
 
 -   Key Skill😼:  Design, Front_End, Back_End
 
