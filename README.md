@@ -1,4 +1,3 @@
-<img src="http://images.dorc.top/blog/blog-logo.png" alt="Logo" align="right" height="200">
 
 #### 👋 Hey! Guys
 
@@ -8,6 +7,8 @@ A rookie of China. Aha! 😜
 
 💨 _I AM WHAT I AM_
 
--   Key Skill😼:  Design, Front_End, Back_End
+-   Key Skill😼:  Design, Front_End
 
--   Code: JavaScript, Python🙈
+-   Code: Html5, CSS3, JavaScript, TypeScript🙈
+
+-   Frame: Angular7, React, Vue2, Vue3
